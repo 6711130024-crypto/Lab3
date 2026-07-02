@@ -1,5 +1,5 @@
 <?php
-  echo "HOME"
-  echo "Product"
-  echo "AbouesUs"
+  echo "HOME";
+  echo "Product";
+  echo "AbouesUs";
 ?>
