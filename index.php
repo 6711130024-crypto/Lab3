@@ -4,3 +4,5 @@
    echo "Thyme EIEI";
 ?>
 <?php echo "Mahanakorn"; ?>
+
+<?php echo "Hard Code"; ?>
