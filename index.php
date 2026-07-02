@@ -3,3 +3,4 @@
    echo "My Name Is Thyme";
    echo "Thyme EIEI";
 ?>
+<?php echo "Mahanakorn"; ?>
